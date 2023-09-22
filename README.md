@@ -6,7 +6,7 @@ Be sure to edit the script based on where your Downloads folder is located. On L
 
 You can run the script simply by cloning the Github repository and then running the following command in your terminal:
 
-> `python sort.py`
+> python sort.py
 
 If everything is set correctly such as pointing to your downloads folder, it should sort these files automatically based on file extension, and will even create the subdirectory if none exists. It will also handle naming conflicts by appending a number to the end of files that are already in the downloads folder.
 
@@ -35,7 +35,7 @@ This is a more advanced version of the sort.py script that allows you to automat
 
 In your terminal (I recommend using Git Bash for Windows), simply run the following command 
 
-> `python auto_sort_downloads.py`
+> python auto_sort_downloads.py
 
 This script will continually run until you close the terminal window, automatically running the sort.py script and placing your downloaded files into the correct subdirectory.
 
