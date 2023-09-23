@@ -4,7 +4,7 @@ This is a very simple project written in Python that automatically sorts your do
 
 Be sure to edit the script based on where your Downloads folder is located. On Linux and Mac be sure to know where they are located and add file extensions as needed.
 
-And yes, this script can be run on ANY folder on your device, just change the directory located at `downloads_folder`
+And yes, this script can be run on ANY folder on your device, just change the directory located at `downloads_folder`.
 
 You can run the script simply by cloning the Github repository and then running the following command in your terminal:
 
